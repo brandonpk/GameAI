@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\bin\Debug\MediumEight.exe.config
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\bin\Debug\MediumEight.exe
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\bin\Debug\MediumEight.pdb
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight.csprojAssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MainWindow.g.cs
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\App.g.cs
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight_MarkupCompile.cache
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight_MarkupCompile.lref
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MainWindow.baml
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight.g.resources
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight.Properties.Resources.resources
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight.csproj.GenerateResource.cache
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight.exe
+C:\Users\brand\OneDrive\Desktop\X\School\Fall_2020\CS3020\MediumEight\MediumEight\obj\Debug\MediumEight.pdb
